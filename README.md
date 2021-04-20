@@ -3,7 +3,7 @@ prueba laboral Talana
 
 #Levantar el entorno
 
-1- Clonar el proyecto
+1- Clonar el proyecto Rama Master
 
 2- cd rutaPrincipalDelProyecto/
 
